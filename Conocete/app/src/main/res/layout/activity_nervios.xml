@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".musculos">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/img_nervios"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="70dp"
+            app:srcCompat="@drawable/nervios" />
+
+        <TextView
+            android:id="@+id/temporal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:layout_marginStart="173dp"
+            android:text="@string/temporal" />
+
+        <TextView
+            android:id="@+id/aorta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="150dp"
+            android:layout_marginStart="120dp"
+            android:text="@string/aorta" />
+
+        <TextView
+            android:id="@+id/tibial"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="350dp"
+            android:layout_marginStart="130dp"
+            android:text="@string/tibial" />
+
+        <TextView
+            android:id="@+id/iliaca"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="250dp"
+            android:layout_marginStart="130dp"
+            android:text="@string/iliaca" />
+
+        <TextView
+            android:id="@+id/dorsal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="400dp"
+            android:layout_marginStart="135dp"
+            android:text="@string/dorsal" />
+
+        <TextView
+            android:id="@+id/axiliar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="130dp"
+            android:layout_marginStart="230dp"
+            android:text="@string/axiliar" />
+
+        <TextView
+            android:id="@+id/humeral"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="170dp"
+            android:layout_marginStart="250dp"
+            android:text="@string/humeral" />
+
+        <TextView
+            android:id="@+id/radial"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="240dp"
+            android:layout_marginStart="280dp"
+            android:text="@string/radial" />
+
+        <TextView
+            android:id="@+id/femoral"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="300dp"
+            android:layout_marginStart="230dp"
+            android:text="@string/femoral" />
+
+        <Button
+            android:id="@+id/espagnol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="460dp"
+            android:layout_marginStart="35dp"
+            android:text="@string/espagnol" />
+
+        <Button
+            android:id="@+id/frances"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="460dp"
+            android:layout_marginStart="150dp"
+            android:text="@string/frances" />
+
+        <Button
+            android:id="@+id/ingles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="460dp"
+            android:layout_marginStart="265dp"
+            android:text="@string/ingles" />
+
+    </FrameLayout>
+
+</android.support.constraint.ConstraintLayout>

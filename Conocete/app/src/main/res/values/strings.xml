@@ -1,0 +1,25 @@
+<resources>
+    <string name="espagnol">Español</string>
+    <string name="frances">Frances</string>
+    <string name="ingles">Ingles</string>
+
+    <string name="app_name">Conocete</string>
+    <string name="musculos">Musculos</string>
+    <string name="huesos">Huesos</string>
+    <string name="nervios">Nervios</string>
+    <string name="venas">Venas</string>
+    <string name="organos">Organos</string>
+
+    <!-- HUESOS -->
+    <string name="craneo">craneo</string>
+    <string name="humero">humero</string>
+    <string name="costilla">costilla</string>
+    <string name="radio">radio</string>
+    <string name="cubito">cubito</string>
+    <string name="femur">femur</string>
+    <string name="tibia">tibia</string>
+    <string name="pelvis">pelvis</string>
+    <string name="perone">perone</string>
+
+
+</resources>

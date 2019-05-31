@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="197dp"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/cuerpo_ppal"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp" />
+
+        <TextView
+            android:id="@+id/sabias"
+            android:layout_width="146dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="235dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="monospace"
+            android:text="¿Sabías qué?"
+            android:textColor="@color/colorAccent"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:typeface="sans" />
+
+        <TextView
+            android:id="@+id/tera"
+            android:layout_width="146dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="235dp"
+            android:layout_marginTop="60dp"
+            android:fontFamily="serif"
+            android:lineSpacingExtra="5sp"
+            android:textSize="16sp"
+            android:text="- La capacidad del cerebro humano es de más de 4 terabytes."
+            android:textAlignment="textStart"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/cora"
+            android:layout_width="146dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="235dp"
+            android:layout_marginTop="190dp"
+            android:fontFamily="serif"
+            android:lineSpacingExtra="5sp"
+            android:textSize="16sp"
+            android:text="- El corazón humano bombea 182 millones de litros de sangre en toda su vida."
+            android:textAlignment="textStart" />
+
+        <TextView
+            android:id="@+id/calor"
+            android:layout_width="146dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="235dp"
+            android:layout_marginTop="340dp"
+            android:fontFamily="serif"
+            android:lineSpacingExtra="8sp"
+            android:textSize="16sp"
+            android:text="- El 80% del calor del cuerpo sale por la cabeza."
+            android:textAlignment="textStart" />
+
+
+        <TextView
+            android:id="@+id/conoce"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="460dp"
+            android:fontFamily="serif-monospace"
+            android:text="¡C O N O C E
+             TÚ   C U E R P O!"
+            android:textAlignment="center"
+            android:textSize="21sp"
+            android:textStyle="bold" />
+
+
+
+
+    </FrameLayout>
+</android.support.constraint.ConstraintLayout>

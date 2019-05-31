@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".musculos">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/img_musculos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="70dp"
+            app:srcCompat="@drawable/musculos" />
+
+        <TextView
+            android:id="@+id/frontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:layout_marginStart="173dp"
+            android:text="@string/frontal" />
+
+        <TextView
+            android:id="@+id/pectoral"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="180dp"
+            android:layout_marginStart="100dp"
+            android:text="@string/pectoral" />
+
+        <TextView
+            android:id="@+id/flexor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="220dp"
+            android:layout_marginStart="80dp"
+            android:text="@string/flexor" />
+
+        <TextView
+            android:id="@+id/recto_abdominal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="250dp"
+            android:layout_marginStart="130dp"
+            android:text="@string/recto_abdominal" />
+
+        <TextView
+            android:id="@+id/soleo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="400dp"
+            android:layout_marginStart="135dp"
+            android:text="@string/soleo" />
+
+        <TextView
+            android:id="@+id/biceps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="160dp"
+            android:layout_marginStart="250dp"
+            android:text="@string/biceps" />
+
+        <TextView
+            android:id="@+id/esterno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="110dp"
+            android:layout_marginStart="230dp"
+            android:text="@string/esterno" />
+
+        <TextView
+            android:id="@+id/vasto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="310dp"
+            android:layout_marginStart="240dp"
+            android:text="@string/vasto" />
+
+        <TextView
+            android:id="@+id/gemelos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="400dp"
+            android:layout_marginStart="235dp"
+            android:text="@string/gemelos" />
+
+        <Button
+            android:id="@+id/espagnol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="460dp"
+            android:layout_marginStart="35dp"
+            android:text="@string/espagnol" />
+
+        <Button
+            android:id="@+id/frances"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="460dp"
+            android:layout_marginStart="150dp"
+            android:text="@string/frances" />
+
+        <Button
+            android:id="@+id/ingles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="460dp"
+            android:layout_marginStart="265dp"
+            android:text="@string/ingles" />
+
+    </FrameLayout>
+
+</android.support.constraint.ConstraintLayout>
