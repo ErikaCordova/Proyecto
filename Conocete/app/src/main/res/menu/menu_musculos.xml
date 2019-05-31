@@ -16,4 +16,9 @@
         android:title="@string/organos"
         />
 
+    <item
+        android:id="@+id/cuerpoM"
+        android:title="@string/cuerpo"
+        />
+
 </menu>

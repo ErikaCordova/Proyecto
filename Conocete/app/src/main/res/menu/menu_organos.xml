@@ -14,4 +14,9 @@
         android:id="@+id/nervios"
         android:title="@string/nervios"
         />
+    <item
+        android:id="@+id/cuerpoO"
+        android:title="@string/cuerpo"
+        />
+
 </menu>

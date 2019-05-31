@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Terri\\AndroidStudioProjects\\Conocete\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
+            "outputFile": "C:\\Users\\Mireles\\Documents\\ITL\\10\\Desarrollo_movil\\Programacion_movil\\Conocete\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Terri\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha1.aar\\6b2e5f8ec509d6d2d4ee5756c3c212a7\\res\\values-or\\values-or.xml",
+                    "source": "C:\\Users\\Mireles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha1.aar\\8729698d5eb14cd929b4bd0fe5a8e9cd\\res\\values-or\\values-or.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -4,7 +4,7 @@
         android:id="@+id/musculos"
         android:title="@string/musculos"
         />
-   <item
+    <item
         android:id="@+id/nervios"
         android:title="@string/nervios"
         />
@@ -14,4 +14,8 @@
         android:title="@string/organos"
         />
 
+    <item
+        android:id="@+id/main"
+        android:title="@string/cuerpo"
+        />
 </menu>

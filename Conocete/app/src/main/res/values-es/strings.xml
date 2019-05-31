@@ -1,0 +1,63 @@
+<resources>
+    <string name="espagnol">Español</string>
+    <string name="frances">Frances</string>
+    <string name="ingles">Ingles</string>
+
+    <string name="app_name">Conocete</string>
+    <string name="musculos">Musculos</string>
+    <string name="huesos">Huesos</string>
+    <string name="nervios">Nervios</string>
+    <string name="venas">Venas</string>
+    <string name="organos">Organos</string>
+    <string name="cuerpo">Cuerpo</string>
+    <string name="sabias">¿Sabías qué?</string>
+    <string name="capacidad">- La capacidad del cerebro humano es de más de 4 terabytes.</string>
+    <string name="cora">- El corazón humano bombea 182 millones de litros de sangre en toda su vida.</string>
+    <string name="calor">- El 80% del calor del cuerpo sale por la cabeza.</string>
+    <string name="conocet">¡C O N O C E
+             TÚ   C U E R P O!</string>
+
+    <!-- HUESOS -->
+    <string name="craneo">craneo</string>
+    <string name="humero">humero</string>
+    <string name="costilla">costilla</string>
+    <string name="radio">radio</string>
+    <string name="cubito">cubito</string>
+    <string name="femur">femur</string>
+    <string name="tibia">tibia</string>
+    <string name="pelvis">pelvis</string>
+    <string name="perone">perone</string>
+
+    <!-- ORGANOS -->
+    <string name="cerebro">cerebro</string>
+    <string name="esofago">esofago</string>
+    <string name="corazon">corazon</string>
+    <string name="higado">higado</string>
+    <string name="pulmones">pulmones</string>
+    <string name="vejiga">vejiga</string>
+    <string name="estomago">estomago</string>
+    <string name="pancreas">pancreas</string>
+    <string name="riñones">riñones</string>
+
+    <!-- MUSCULOS -->
+    <string name="frontal">frontal</string>
+    <string name="esterno">esterno</string>
+    <string name="pectoral">pectoral</string>
+    <string name="flexor">flexor</string>
+    <string name="biceps">biceps</string>
+    <string name="soleo">soleo</string>
+    <string name="vasto">vasto</string>
+    <string name="recto_abdominal">recto_abdominal</string>
+    <string name="gemelos">gemelos</string>
+
+    <!-- NERVIOS -->
+    <string name="temporal">temporal</string>
+    <string name="aorta">aorta</string>
+    <string name="axiliar">axiliar</string>
+    <string name="humeral">humeral</string>
+    <string name="radial">radial</string>
+    <string name="femoral">femoral</string>
+    <string name="iliaca">iliaca</string>
+    <string name="tibial">tibial</string>
+    <string name="dorsal">dorsal</string>
+</resources>

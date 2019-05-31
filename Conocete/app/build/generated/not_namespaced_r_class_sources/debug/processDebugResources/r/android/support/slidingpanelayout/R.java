@@ -85,27 +85,27 @@ public final class R {
         public static final int action_image = 0x7f070010;
         public static final int action_text = 0x7f070016;
         public static final int actions = 0x7f070017;
-        public static final int async = 0x7f07001d;
-        public static final int blocking = 0x7f070020;
-        public static final int chronometer = 0x7f070029;
-        public static final int forever = 0x7f070044;
-        public static final int icon = 0x7f07004c;
-        public static final int icon_group = 0x7f07004d;
-        public static final int info = 0x7f070052;
-        public static final int italic = 0x7f070055;
-        public static final int line1 = 0x7f070057;
-        public static final int line3 = 0x7f070058;
-        public static final int normal = 0x7f070062;
-        public static final int notification_background = 0x7f070063;
-        public static final int notification_main_column = 0x7f070064;
-        public static final int notification_main_column_container = 0x7f070065;
-        public static final int right_icon = 0x7f070071;
-        public static final int right_side = 0x7f070072;
-        public static final int tag_transition_group = 0x7f070093;
-        public static final int text = 0x7f070095;
-        public static final int text2 = 0x7f070096;
-        public static final int time = 0x7f07009a;
-        public static final int title = 0x7f07009b;
+        public static final int async = 0x7f07001e;
+        public static final int blocking = 0x7f070023;
+        public static final int chronometer = 0x7f07002d;
+        public static final int forever = 0x7f070055;
+        public static final int icon = 0x7f070063;
+        public static final int icon_group = 0x7f070064;
+        public static final int info = 0x7f07006d;
+        public static final int italic = 0x7f070073;
+        public static final int line1 = 0x7f070075;
+        public static final int line3 = 0x7f070076;
+        public static final int normal = 0x7f070081;
+        public static final int notification_background = 0x7f070082;
+        public static final int notification_main_column = 0x7f070083;
+        public static final int notification_main_column_container = 0x7f070084;
+        public static final int right_icon = 0x7f070094;
+        public static final int right_side = 0x7f070095;
+        public static final int tag_transition_group = 0x7f0700b7;
+        public static final int text = 0x7f0700ba;
+        public static final int text2 = 0x7f0700bb;
+        public static final int time = 0x7f0700c0;
+        public static final int title = 0x7f0700c1;
     }
     public static final class integer {
         private integer() {}
@@ -115,17 +115,17 @@ public final class R {
     public static final class layout {
         private layout() {}
 
-        public static final int notification_action = 0x7f09001d;
-        public static final int notification_action_tombstone = 0x7f09001e;
-        public static final int notification_template_custom_big = 0x7f09001f;
-        public static final int notification_template_icon_group = 0x7f090020;
-        public static final int notification_template_part_chronometer = 0x7f090021;
-        public static final int notification_template_part_time = 0x7f090022;
+        public static final int notification_action = 0x7f090020;
+        public static final int notification_action_tombstone = 0x7f090021;
+        public static final int notification_template_custom_big = 0x7f090022;
+        public static final int notification_template_icon_group = 0x7f090023;
+        public static final int notification_template_part_chronometer = 0x7f090024;
+        public static final int notification_template_part_time = 0x7f090025;
     }
     public static final class string {
         private string() {}
 
-        public static final int status_bar_notification_info_overflow = 0x7f0c002e;
+        public static final int status_bar_notification_info_overflow = 0x7f0c004b;
     }
     public static final class style {
         private style() {}

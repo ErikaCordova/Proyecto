@@ -27,7 +27,7 @@
             android:layout_marginStart="235dp"
             android:layout_marginTop="10dp"
             android:fontFamily="monospace"
-            android:text="¿Sabías qué?"
+            android:text="@string/sabias"
             android:textColor="@color/colorAccent"
             android:textSize="18sp"
             android:textStyle="bold"
@@ -42,7 +42,7 @@
             android:fontFamily="serif"
             android:lineSpacingExtra="5sp"
             android:textSize="16sp"
-            android:text="- La capacidad del cerebro humano es de más de 4 terabytes."
+            android:text="@string/capacidad"
             android:textAlignment="textStart"
             android:typeface="serif" />
 
@@ -55,7 +55,7 @@
             android:fontFamily="serif"
             android:lineSpacingExtra="5sp"
             android:textSize="16sp"
-            android:text="- El corazón humano bombea 182 millones de litros de sangre en toda su vida."
+            android:text="@string/cora"
             android:textAlignment="textStart" />
 
         <TextView
@@ -67,7 +67,7 @@
             android:fontFamily="serif"
             android:lineSpacingExtra="8sp"
             android:textSize="16sp"
-            android:text="- El 80% del calor del cuerpo sale por la cabeza."
+            android:text="@string/calor"
             android:textAlignment="textStart" />
 
 
@@ -78,13 +78,10 @@
             android:layout_marginStart="0dp"
             android:layout_marginTop="460dp"
             android:fontFamily="serif-monospace"
-            android:text="¡C O N O C E
-             TÚ   C U E R P O!"
+            android:text="@string/conocet"
             android:textAlignment="center"
             android:textSize="21sp"
             android:textStyle="bold" />
-
-
 
 
     </FrameLayout>

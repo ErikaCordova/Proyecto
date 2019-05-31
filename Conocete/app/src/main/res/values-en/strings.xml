@@ -1,0 +1,65 @@
+<resources>
+    <string name="espagnol">Español</string>
+    <string name="ingles">Ingles</string>
+    <string name="frances">Frances</string>
+
+
+    <string name="app_name">Know yourself</string>
+    <string name="musculos">Muscles</string>
+    <string name="huesos">Bones</string>
+    <string name="nervios">Nerves</string>
+    <string name="venas">Veins</string>
+    <string name="organos">Organs</string>
+    <string name="cuerpo">Body</string>
+    <string name="sabias">Did you know?</string>
+    <string name="capacidad">- The capacity of the human brain is more than 4 terabytes.</string>
+    <string name="cora">- The human heart pumps 182 million liters of blood throughout his life.</string>
+    <string name="calor">- 80% of body heat goes through the head.</string>
+    <string name="conocet">¡K N O W
+        Y O U R B O D Y!</string>
+
+
+    <string name="craneo">skull</string>
+    <string name="humero">humerus </string>
+    <string name="costilla">rib</string>
+    <string name="radio">radius</string>
+    <string name="cubito">ulna</string>
+    <string name="femur">femur</string>
+    <string name="tibia">shinbone</string>
+    <string name="pelvis">pelvis</string>
+    <string name="perone">fibula</string>
+
+
+    <string name="cerebro">brain</string>
+    <string name="esofago">esophagus</string>
+    <string name="corazon">heart</string>
+    <string name="higado">liver</string>
+    <string name="pulmones">lungs</string>
+    <string name="vejiga">bladder</string>
+    <string name="estomago">stomach</string>
+    <string name="pancreas">pancreas</string>
+    <string name="riñones">kidneys</string>
+
+
+    <string name="frontal">frontal</string>
+    <string name="esterno">breastbone</string>
+    <string name="pectoral">pectoral</string>
+    <string name="flexor">flexor</string>
+    <string name="biceps">biceps</string>
+    <string name="soleo">soleo</string>
+    <string name="vasto">vast</string>
+    <string name="recto_abdominal">abdominal rect</string>
+    <string name="gemelos">twins</string>
+
+
+    <string name="temporal">temporary</string>
+    <string name="aorta">aorta</string>
+    <string name="axiliar">axiliar</string>
+    <string name="humeral">humeral</string>
+    <string name="radial">radial</string>
+    <string name="femoral">femoral</string>
+    <string name="iliaca">iliac</string>
+    <string name="tibial">tibial</string>
+    <string name="dorsal">dorsal</string>
+
+</resources>

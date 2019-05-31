@@ -1,0 +1,64 @@
+<resources>
+    <string name="espagnol">Español</string>
+    <string name="frances">Frances</string>
+    <string name="ingles">Ingles</string>
+
+    <string name="app_name">Apprenez à vous connaître</string>
+    <string name="musculos">les muscles</string>
+    <string name="huesos">Les os</string>
+    <string name="nervios">Les nerfs</string>
+    <string name="venas">Veines</string>
+    <string name="organos">Les organes</string>
+    <string name="cuerpo">Corps</string>
+    <string name="sabias">¿Tu savais que?</string>
+    <string name="capacidad">- La capacité du cerveau humain est supérieure à 4 téraoctets.</string>
+    <string name="cora">- Le cœur humain pompe 182 millions de litres de sang au cours de sa vie.</string>
+    <string name="calor">- 80% de la chaleur corporelle passe par la tête.</string>
+    <string name="conocet">¡C O N N A I S S E Z
+        V O T R E C O R P S!</string>
+
+    <string name="craneo">crâne</string>
+    <string name="humero">humérus </string>
+    <string name="costilla">côte</string>
+    <string name="radio">radius</string>
+    <string name="cubito">coudée</string>
+    <string name="femur">femur</string>
+    <string name="tibia">tiède</string>
+    <string name="pelvis">bassin</string>
+    <string name="perone">fibule</string>
+
+
+    <string name="cerebro">cerveau</string>
+    <string name="esofago">oesophage</string>
+    <string name="corazon">coeur</string>
+    <string name="higado">foie</string>
+    <string name="pulmones">poumons</string>
+    <string name="vejiga">vessie</string>
+    <string name="estomago">estomac</string>
+    <string name="pancreas">pancreas</string>
+    <string name="riñones">reins</string>
+
+
+    <string name="frontal">frontal</string>
+    <string name="esterno">Sternum</string>
+    <string name="pectoral">pectoral</string>
+    <string name="flexor">fléchisseur</string>
+    <string name="biceps">biceps</string>
+    <string name="soleo">soleo</string>
+    <string name="vasto">vaste</string>
+    <string name="recto_abdominal">droit abdominal</string>
+    <string name="gemelos">jumeaux</string>
+
+
+    <string name="temporal">temporaire</string>
+    <string name="aorta">aorte</string>
+    <string name="axiliar">axiliaire</string>
+    <string name="humeral">huméral</string>
+    <string name="radial">radial</string>
+    <string name="femoral">fémoral</string>
+    <string name="iliaca">iliaque</string>
+    <string name="tibial">tibial</string>
+    <string name="dorsal">dorsal</string>
+
+
+</resources>

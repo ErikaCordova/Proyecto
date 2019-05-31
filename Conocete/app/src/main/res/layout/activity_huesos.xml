@@ -91,6 +91,7 @@
             android:layout_marginStart="235dp"
             android:text="@string/perone" />
 
+<!-- Cambio de idioma -->
         <Button
             android:id="@+id/espagnol"
             android:layout_width="wrap_content"

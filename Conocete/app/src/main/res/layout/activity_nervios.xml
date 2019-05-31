@@ -91,7 +91,7 @@
             android:text="@string/femoral" />
 
         <Button
-            android:id="@+id/espagnol"
+            android:id="@+id/espagnolN"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="460dp"
@@ -99,7 +99,7 @@
             android:text="@string/espagnol" />
 
         <Button
-            android:id="@+id/frances"
+            android:id="@+id/francesN"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="460dp"
@@ -107,7 +107,7 @@
             android:text="@string/frances" />
 
         <Button
-            android:id="@+id/ingles"
+            android:id="@+id/inglesN"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="460dp"

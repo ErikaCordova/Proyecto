@@ -91,7 +91,7 @@
             android:text="@string/gemelos" />
 
         <Button
-            android:id="@+id/espagnol"
+            android:id="@+id/espagnolM"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="460dp"
@@ -99,7 +99,7 @@
             android:text="@string/espagnol" />
 
         <Button
-            android:id="@+id/frances"
+            android:id="@+id/francesM"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="460dp"
@@ -107,7 +107,7 @@
             android:text="@string/frances" />
 
         <Button
-            android:id="@+id/ingles"
+            android:id="@+id/inglesM"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="460dp"
